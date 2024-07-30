@@ -1,0 +1,10 @@
+.venv
+env
+venv
+staticfiles
+__pycache__
+db.sqlite3
+TeacherApp/migrations/*
+StudentApp/migrations/*
+GroupApp/migrations/*
+AttenDanceApp/migrations/*
